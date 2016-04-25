@@ -38,44 +38,6 @@
 
     </LinearLayout>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <FrameLayout
-            android:layout_width="90dp"
-            android:layout_height="352dp"
-            android:layout_below="@+id/textView"
-            android:layout_alignParentStart="true"
-            android:background="@color/red">
 
-        </FrameLayout>
-        <FrameLayout
-            android:layout_width="88dp"
-            android:layout_height="match_parent"
-            android:layout_below="@+id/textView"
-            android:layout_alignParentStart="true"
-            android:background="@color/blue">
-
-        </FrameLayout>
-
-        <FrameLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_below="@+id/textView"
-            android:layout_alignParentStart="true"
-            android:background="@color/orangered">
-
-        </FrameLayout>
-
-        <FrameLayout
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_below="@+id/textView"
-            android:layout_alignParentStart="true"
-            android:background="@color/blue"
-            android:layout_gravity="bottom" >
-        </FrameLayout>
-
-    </LinearLayout>
 
 </LinearLayout>
