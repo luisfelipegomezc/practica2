@@ -73,8 +73,8 @@
             android:layout_below="@+id/textView"
             android:layout_alignParentStart="true"
             android:background="@color/blue"
-            android:layout_gravity="bottom" />
-
+            android:layout_gravity="bottom" >
+        </FrameLayout>
 
     </LinearLayout>
 
